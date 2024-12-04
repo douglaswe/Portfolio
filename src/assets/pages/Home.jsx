@@ -56,7 +56,7 @@ const Home = () => {
           Hii.. I am a{" "}
           <span className="text-cpink uppercase dark:text-cdpink">
             <Typewriter
-              words={["Web Developer", "Frontend Developer", "Music Producer"]}
+              words={["Web Developer", "Frontend Developer"]}
               loop={true}
               cursor={true}
             />
@@ -87,19 +87,3 @@ const Home = () => {
 };
 export default Home;
 
-/*Java, HTML, JavaScript, Python e CSS são como novos
-        idiomas que estou aprendendo a dominar, cada um abrindo portas para
-        possibilidades emocionantes. Java: Estou começando a entender como criar
-        programas que podem fazer coisas incríveis e como essa linguagem é
-        poderosa. HTML, JavaScript e CSS: Descobri como construir páginas web
-        interativas. É fascinante ver o código ganhando vida no navegador!
-        Python: Estou experimentando com scripts e pequenos projetos,
-        maravilhado com a simplicidade desta linguagem. Banco de Dados (MySQL):
-        Entendi como armazenar e recuperar informações importantes para
-        aplicativos. O Que Me Empolga: Estou empolgado para enfrentar desafios
-        novos, aprender coisas novas e, claro, criar minhas próprias coisas.
-        Quero ser capaz de construir aplicativos úteis e, quem sabe, contribuir
-        para soluções que ajudem as pessoas. Futuro Brilhante: Se você também
-        está começando nesse mundo, ou se tem projetos que podem ser desbravados
-        juntos, estou aberto para colaborar e aprender mais. Vamos explorar este
-        mundo fascinante da programação juntos!*/
